@@ -1,0 +1,18 @@
+{
+  "name": "plaramart/epay-payments",
+  "description": "Epay.bg card payments / Easypay code payments",
+  "type": "library",
+  "license": "MIT",
+  "autoload": {
+    "psr-4": {
+      "Plaramart\\EpayPayments\\": "src/"
+    }
+  },
+  "authors": [
+    {
+      "name": "plaramart"
+    }
+  ],
+  "minimum-stability": "dev",
+  "require": {}
+}
